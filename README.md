@@ -19,3 +19,11 @@ Ahmed Khan	               11081
 3. I never give up on myself.
 4. I have worked on more than 20 live Project.
 5. Currently i`m working in Flash Start as a web and mobile application developer.
+
+
+11300 SALAH SHAKEEL (Discribe myself)
+1.My name is salah shakeel
+2.iam mobile application developer currently working in flash start
+3.i make more than 20+ projects including (Learning management system - Core Php, Accounting Software Web Application - Core Php, DocShare Mobile Application - Flutter and more...)
+4.My Expertise in: Flutter Mobile Application Development, Laravel, Django, Core Php, C#, Asp.Net MVC and Database Adminstration
+5.My almost whole day is spend on working on projects
