@@ -1,4 +1,4 @@
-    Name	          Student ID
+    Name	    Student ID
 Huzaifa Shakeel	           11193
 
 Rahat Rabbani	           10986
