@@ -40,4 +40,4 @@ for me many times to Stay focus on my goals but I'm still trying my best.
 
 4.Im trying to hardwork on my skills and wanted to make me more better.
 
-5.I like exploring and learning new things.
+5.I like to explore creative things.
