@@ -30,9 +30,14 @@ Ahmed Khan	               11081
 
 
 10973 Aiman Akmal (describe myself)
+
 1.I'm Aiman Akmal. My aim is to achieve my goals.
+
 2.I'm currently learning programming. It's difficult 
 for me many times to Stay focus on my goals but I'm still trying my best.
+
 3.I'm doing Cs because I wanted to do Job in software house.
+
 4.Im trying to hardwork on my skills and wanted to make me more better.
+
 5.I like exploring and learning new things.
