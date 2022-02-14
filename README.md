@@ -21,9 +21,18 @@ Ahmed Khan	               11081
 5. Currently i`m working in Flash Start as a web and mobile application developer.
 
 
-11300 SALAH SHAKEEL (Discribe myself)
+11300 SALAH SHAKEEL (Describe myself)
 1. My working in this feild almost 3 years.
 2. iam mobile application developer currently working in flash start
 3. i make more than 20+ projects including (Learning management system - Core Php, Accounting Software Web Application - Core Php, DocShare Mobile Application - Flutter and more...)
 4. My Expertise in: Flutter Mobile Application Development, Laravel, Django, Core Php, C#, Asp.Net MVC and Database Adminstration
 5. My almost whole day is spend on working on projects
+
+
+10973 Aiman Akmal (describe myself)
+1.I'm Aiman Akmal. My aim is to achieve my goals.
+2.I'm currently learning programming. It's difficult 
+for me many times to Stay focus on my goals but I'm still trying my best.
+3.I'm doing Cs because I wanted to do Job in software house.
+4.Im trying to hardwork on my skills and wanted to make me more better.
+5.I like exploring and learning new things.
