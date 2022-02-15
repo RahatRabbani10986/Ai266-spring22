@@ -41,3 +41,8 @@ for me many times to Stay focus on my goals but I'm still trying my best.
 4.Im trying to hardwork on my skills and wanted to make me more better.
 
 5.I like to explore creative things.
+
+
+10986 Rahat Rabbani (Describe Myself)
+
+Hi, my name is Rahat Rabbani and my CGPA is 3.52. I'm an inspiring and hardworking individual. I have done many academic projects, based on different languages like c#, html, css, python, php and now starts learning java. I enjoy reading a good book, or a nice evening out with friends in a spare time. I have a good communication and writing skills. I do all my work with full concentration and dedication and always prefer to explore something new. My academics grades and projects clearly shows all my dedication toward my studies and work.
