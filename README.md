@@ -22,7 +22,7 @@ Ahmed Khan	               11081
 
 
 11300 SALAH SHAKEEL (Describe myself)
-1. I'm working in this feild almost 3 years.
+1. I'm working in this field almost 3 years.
 2. I am mobile application developer currently working in flash start.
 3. I make more than 20+ projects including (Learning management system - Core Php, Accounting Software Web Application - Core Php, DocShare Mobile Application - Flutter and more...).
 4. My Expertise in: Flutter Mobile Application Development, Laravel, Django, Core Php, C#, Asp.Net MVC and Database Adminstration.
