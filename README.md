@@ -46,3 +46,13 @@ for me many times to Stay focus on my goals but I'm still trying my best.
 10986 Rahat Rabbani (Describe Myself)
 
 Hi, my name is Rahat Rabbani and my CGPA is 3.52. I'm an inspiring and hardworking individual. I have done many academic projects, based on different languages like c#, html, css, python, php and now starts learning java. I enjoy reading a good book, or a nice evening out with friends in a spare time. I have a good communication and writing skills. I do all my work with full concentration and dedication and always prefer to explore something new. My academics grades and projects clearly shows all my dedication toward my studies and works.
+
+
+
+Ahmed Khan (describe myself)
+
+my name is ahmed khan 
+i am doing bscs from pafkiet.
+I am a freelance web developer. 
+and i aloso learning arifical intelligent chatbot voice app using dialog flow and alexa. 
+my expertise in web application and chatbot voice app
