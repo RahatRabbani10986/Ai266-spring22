@@ -6,8 +6,10 @@
 | Ahmed Khan    | 11081         |
 | Aimen Akmal   | 10973         |
 
-Problem Faced in Assignment:
+*Problem Faced in Assignment:*
 
-Firstly, we don't have any idea about kaggle so we learnt about kaggle and come to know that kaggle is s data science company which offers different competitions to data scientist . After gathering all the information about kaggle we take our next step and join the Tabular Playground Series - May 2022, we faced some problem in joining the competition because it doesn't verify our phone number by  
-Kaggle score Screen Shot:
+Firstly, we didn't have any idea about kaggle so we learnt about kaggle and come to know that kaggle is a data science company which offers different competitions to data scientist. After gathering all the information about kaggle we take our next step and join the Tabular Playground Series - May 2022, we faced some problem in joining the competition because it didn't verify the phone number. Then we identified the solution. By accepting the rules of competition we were join the competition. In last we performed python programming. In python programming we stuck in writing code that how can we generate random target values and choosee suitable libraries which is helpful in most of the cases. We learnt about different libararies and their features and then perform python program.
+
+*Kaggle score Screen Shot:*
+
 ![image](https://user-images.githubusercontent.com/99352810/167909959-14e68555-6e6e-4a78-b544-dd3b62927aba.png)
