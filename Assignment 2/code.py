@@ -13,7 +13,7 @@ idDf = testDf[['id']];
 #----This line is creating target column as per kaggle----#
 idDf.insert(1,"target",0)
 
-#----The work of This line is generating random values-----#
+#----here we are generating random values-----#
 idDf['target']=np.random.rand(700000,1);
 #----Writing Back in Csv File----#
 idDf.to_csv('sample_file.csv');
