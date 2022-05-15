@@ -26,7 +26,7 @@ Ahmed Khan 11081:
 Supervised the python program.
 
 Aimen Akmal 10973:
-Learn about kaggle.
+Learn about kaggle where we learn about different libraries and work on it.
 
 **Kaggle score Screen Shot:**
 
