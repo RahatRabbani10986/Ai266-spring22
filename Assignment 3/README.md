@@ -24,8 +24,14 @@ Ahmed Khan 11081:
 Aimen Akmal 10973:
 
 
-**Parameter and accuracy**
-
+**Parameter and CV accuracy**
+| Parameter     | CV accuracy   |
+| ------------- | ------------- |
+|               |               |
+|               |               |
+|               |               |
+|               |               |
+|               |               |
 
 **Kaggle score Screen Shot:**
 
