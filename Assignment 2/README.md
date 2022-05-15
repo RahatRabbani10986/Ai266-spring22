@@ -10,6 +10,7 @@
 
 Firstly, we didn't have any idea about kaggle so we learnt about kaggle and come to know that kaggle is a data science company which offers different competitions to data scientist. After gathering all the information about kaggle we take our next step and join the Tabular Playground Series - May 2022, we faced some problem in joining the competition because it didn't verify the phone number. Then we identified the solution. By accepting the rules of competition we were join the competition. In last we performed python programming. In python programming we stuck in writing a code that how can we generate random target values and choose suitable libraries which is helpful in most of the cases. We learnt about different libararies and their features and then perform python program.
 
+
 **Contribution:**
 
 Rahat Rabbani 10986:
