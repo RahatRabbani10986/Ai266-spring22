@@ -1,5 +1,5 @@
-# Ai-106394 : Project #
-### PROJECT MEMBERS ###
+# ASSIGNMENT 03 #
+
 StdID | Name
 ------------ | -------------
 **10986** | **Rahat Rabbani** 
@@ -35,9 +35,6 @@ The k-nearest neighbors (KNN) algorithm can be used to solve both classification
 
 ### SVM ###
 Support Vector Machine (SVM) algorithm can be used for both classification or regression challenges. (performed by member1)
-
-### Linear Regression ###
-Linear Regression algorithm is used to performs a regression task. (performed by member2)
 
 ### MultinomialNB ###
 MultinomialNB algorithm is used in Text Classification, Spam filtering and Sentiment Analysis. (laplace smoothing by member3 and lidstone smoothing by member4)
