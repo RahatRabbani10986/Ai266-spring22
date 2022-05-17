@@ -47,8 +47,14 @@ MultinomialNB algorithm is used in Text Classification, Spam filtering and Senti
 - Explanation of KNN : https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 - Explanation of Perceptron : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html
 - 
+
+![WhatsApp Image 2022-05-17 at 10 12 20 PM](https://user-images.githubusercontent.com/99352810/168872215-9292bbd9-8e9b-43d6-b1f1-c149bc967fab.jpeg)
+
+![WhatsApp Image 2022-05-17 at 10 12 21 PM](https://user-images.githubusercontent.com/99352810/168872244-47237a7f-de0a-4a4b-9e03-9c13cf4aaa91.jpeg)
+
 aiman-knn
 ![IMG-20220516-WA0033 (1)](https://user-images.githubusercontent.com/99357609/168653728-7582bd4b-c740-452b-b712-b2afda9ed16c.jpg)
 
 aiman-knn-code-output
 ![IMG-20220516-WA0007](https://user-images.githubusercontent.com/99357609/168849066-7a24d38e-a9da-4630-b686-733b73328af2.jpg)
+
