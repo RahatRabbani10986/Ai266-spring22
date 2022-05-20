@@ -22,11 +22,14 @@ train 5 models and check scores on kaggle
     c. SVM
     d. KNN
 
-### KNN ###
-The k-nearest neighbors (KNN) algorithm can be used to solve both classification and regression problems. in knn we have used 3 as nearest neighbor to better satisfy our need.(performed by leader)
-
 ### SVM ###
-Support Vector Machine (SVM) algorithm can be used for both classification or regression challenges. (performed by member1)
+Support Vector Machine (SVM) algorithm can be used for both classification or regression challenges. (performed by leader)
+
+###Perceptron ###
+A perceptron is a neural network unit (an artificial neuron) that does certain computations to detect features or business intelligence in the input data. (performed by member1)
+
+### KNN ###
+The k-nearest neighbors (KNN) algorithm can be used to solve both classification and regression problems. in knn we have used 3 as nearest neighbor to better satisfy our need.(performed by member2)
 
 ### MultinomialNB ###
 MultinomialNB algorithm is used in Text Classification, Spam filtering and Sentiment Analysis. (laplace smoothing by member3 and lidstone smoothing by member4)
@@ -40,8 +43,6 @@ MultinomialNB algorithm is used in Text Classification, Spam filtering and Senti
 - Explanation of Perceptron : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html
 
 ![image](https://user-images.githubusercontent.com/99352810/169540156-cb9ee6a5-c4aa-443e-b709-1aa0316121d9.png)
-
-![WhatsApp Image 2022-05-16 at 2 18 12 AM](https://user-images.githubusercontent.com/99357263/168875729-a565e9c4-c072-492d-b7f3-1d7104c3b70d.jpeg)
 
 ![WhatsApp Image 2022-05-16 at 2 19 14 AM](https://user-images.githubusercontent.com/99357263/168875480-f320962a-402e-4703-b2c3-c2d25a75290f.jpeg)
 
