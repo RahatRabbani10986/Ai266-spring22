@@ -25,7 +25,7 @@ train 5 models and check scores on kaggle
 ### SVM ###
 Support Vector Machine (SVM) algorithm can be used for both classification or regression challenges. (performed by leader)
 
-###Perceptron ###
+### Perceptron ###
 A perceptron is a neural network unit (an artificial neuron) that does certain computations to detect features or business intelligence in the input data. (performed by member1)
 
 ### KNN ###
