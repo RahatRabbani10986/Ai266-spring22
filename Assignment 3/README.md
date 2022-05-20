@@ -16,14 +16,6 @@ StdID | Name
 ## Assignemnt Description ##
 train 5 models and check scores on kaggle
 
-## Screenshot of highest score on kaggle ##
-![Screenshot_1](https://user-images.githubusercontent.com/)
-![Screenshot_2](https://user-images.githubusercontent.com/)
-![Screenshot_3](https://user-images.githubusercontent.com/)
-![Screenshot_4](https://user-images.githubusercontent.com/)
-![Screenshot_5](https://user-images.githubusercontent.com/)
-
-
 ## Models Used ##
     a. MultinomialNB (laplace and lidstone)
     b. perceptron
