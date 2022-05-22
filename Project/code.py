@@ -114,6 +114,7 @@ new_train = trainDf['target']
 o_train, o_test, n_train, n_test = train_test_split(train, new_train, test_size=0.2, random_state=35)
 
 
+
 #----Applying Logistic Regression------#
 #---Importing Library---#
 from sklearn.linear_model import LogisticRegression
@@ -153,6 +154,8 @@ trainDff['target'] = Test_predict
 trainDff.head()
 print(trainDff)
 trainDff.to_csv('LogisticRegression.csv', index=False)
+
+
 
 #KFold
 from sklearn.model_selection import KFold
