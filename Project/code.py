@@ -11,14 +11,14 @@ import numpy as np
 #-----This line is reading train Data---#
 trainDf = pd.read_csv("E:/ERROR/train.csv")
 
-#-----This line is reading test Data---#
+#----- This line is reading test Data ---#
 testDf = pd.read_csv('E:/ERROR/test.csv')
 
-#-----This line is printing train Data---#
+#----- This line is printing train Data ---#
 print("Sample Train data: ")
 print(trainDf.head())
 
-#-----This line is printing test Data---#
+#----- This line is printing test Data ---#
 print("Sample test data: ")
 print(testDf.head())
 
@@ -72,6 +72,7 @@ print(trainDff)
 trainDff.to_csv('LinearRegression.csv', index=False)
 
 #KFold
+
 #---Importing Library---#
 from sklearn.model_selection import KFold
 kf = KFold(n_splits=2)
@@ -81,7 +82,9 @@ for trainDf, testDf in kf.split(train):
     
     
 #"Logistic Regression"
+
 #Date:May 21,2022
+
 #---Importing Libraries---#
 
 import pandas as pd
