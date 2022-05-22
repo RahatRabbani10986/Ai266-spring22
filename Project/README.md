@@ -55,6 +55,4 @@ Worked on Data Cleaning and K-fold
 
 ![aiman](https://user-images.githubusercontent.com/99357609/169689180-af2c87a5-caa3-4b75-bf3b-1d457395b56b.jpg)
 
-![knnaiman](https://user-images.githubusercontent.com/99357609/169689445-cc84c62a-406d-4c0b-b1e4-f0cbcf4acc98.jpg)
-
-
+![knnaiman](https://user-images.githubusercontent.com/99357609/169689517-947025a9-e973-4c18-ab80-d6e5849a7129.jpg)
