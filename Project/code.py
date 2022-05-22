@@ -193,7 +193,7 @@ test = pd.read_csv('test.csv')
 test.head(2)
 
 train.isnull().sum()
-train['target'] = train['target'].map({'Class1':1,'Class2':2,'Class3':3,'Class4':4})
+train['target'] = train['target'].map({'Class_1':1,'Class_2':2,'Class_3':3,'Class_4':4})
 print(train.head(2))
 train.drop(['id'],axis=1, inplace=True)
 test.drop(['id'],axis=1, inplace=True)
