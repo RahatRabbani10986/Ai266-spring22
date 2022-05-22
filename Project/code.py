@@ -80,7 +80,7 @@ for trainDf, testDf in kf.split(train):
     
     
     
-"Logistic Regression"
+#"Logistic Regression"
 #Date:May 21,2022
 #---Importing Libraries---#
 
