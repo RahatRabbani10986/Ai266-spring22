@@ -35,10 +35,10 @@ Worked on Data Cleaning and K-fold
 ![image](https://user-images.githubusercontent.com/99352810/169680008-2d2b3c29-1533-4c57-b271-53204454ba65.png)
 
 ## References ##
-Documentation of python : https://docs.python.org/3/
-Documentation of scikit-learn : https://scikit-learn.org/stable/user_guide.html
-Explanation of SVM : https://scikit-learn.org/stable/modules/svm.html
-Explanation of KNN : https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
-https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
-https://scikit-learn.org/stable/modules/cross_validation.html
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression
+- Documentation of python : https://docs.python.org/3/
+- Documentation of scikit-learn : https://scikit-learn.org/stable/user_guide.html
+- Explanation of SVM : https://scikit-learn.org/stable/modules/svm.html
+- Explanation of KNN : https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+- https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
+- https://scikit-learn.org/stable/modules/cross_validation.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression
