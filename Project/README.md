@@ -34,6 +34,9 @@ Worked on Data Cleaning and K-fold
 
 ![image](https://user-images.githubusercontent.com/99352810/169680008-2d2b3c29-1533-4c57-b271-53204454ba65.png)
 
+![kagal](https://user-images.githubusercontent.com/99352212/169686311-4ded7ab8-1424-4fef-98f3-ef69e71c73ba.PNG)
+
+
 ## References ##
 - Documentation of python : https://docs.python.org/3/
 - Documentation of scikit-learn : https://scikit-learn.org/stable/user_guide.html
