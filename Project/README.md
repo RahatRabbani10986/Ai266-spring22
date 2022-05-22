@@ -31,6 +31,7 @@ Worked on Data Cleaning and K-fold
 ![image](https://user-images.githubusercontent.com/99352810/169679283-0fa85b97-79a3-4454-a045-0274237d2be0.png)
 
 ## Screenshot of the Kaggle Score ##
+![image](https://user-images.githubusercontent.com/99357263/169691056-88035a9f-4e7d-49a0-9e33-e130686a026d.png)
 
 ![image](https://user-images.githubusercontent.com/99352810/169680008-2d2b3c29-1533-4c57-b271-53204454ba65.png)
 
