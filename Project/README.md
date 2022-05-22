@@ -48,10 +48,13 @@ Worked on Data Cleaning and K-fold
 
 
 
+
+
 #knn
 
 
 ![aiman](https://user-images.githubusercontent.com/99357609/169689180-af2c87a5-caa3-4b75-bf3b-1d457395b56b.jpg)
 
-![knnaiman](https://user-images.githubusercontent.com/99357609/169689332-22a599ce-4e50-49e9-9c3e-c5531274426b.jpg)
+![knnaiman](https://user-images.githubusercontent.com/99357609/169689445-cc84c62a-406d-4c0b-b1e4-f0cbcf4acc98.jpg)
+
 
